@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I'm Peya. I'm currently learning front end development.<br>I pursue hobbies that i can refine, so coffee, photography, programming.<br>If I can improve it, I will.
+Hey I'm Peya. I'm  a behavior therapist that is currently learning front end development.<br>I pursue hobbies that i can refine, so coffee, photography, programming.<br>If I can improve it, I will.
 
 
 ## 🌐 Socials:
