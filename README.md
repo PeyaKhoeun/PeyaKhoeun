@@ -1,21 +1,57 @@
-# 💫 About Me:
-Hey I'm Peya. I'm  a behavior therapist that is currently learning front end development.<br>I pursue hobbies that i can refine, so coffee, photography, programming.<br>If I can improve it, I will.
+```text
+peya@khoeun:~$ neofetch
 
+   ┌────────────┐    peya@khoeun
+   │            │    ───────────
+   │     pk     │    name    Peya Khoeun
+   │            │    role    Business Systems & Financial Intelligence Engineer
+   └────────────┘    org     Designed Realty
+                     loc     Seattle, WA
+                     edu     B.A. Psychology, UW Bothell
+                     path    behavior → systems → finance
+                     os      Arch Linux
+                     wm      i3
+                     shell   zsh · neovim · tmux
+                     stack   python · node · react · cloudflare · godot · ollama
+                     fuel    ethiopian pour over, black
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peya_khoeun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peyakhoeun) 
+                     ██▓▓▒▒░░
+```
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PeyaKhoeun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PeyaKhoeun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PeyaKhoeun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```text
+peya@khoeun:~$ cat about.txt
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I build the systems and data tools behind the business at **Designed Realty**.
 
----
-[![](https://visitcount.itsvg.in/api?id=PeyaKhoeun&icon=0&color=0)](https://visitcount.itsvg.in)
+I got here through psychology. I studied it at UW Bothell, volunteered as a crisis counselor, and worked as a behavior therapist. I'm still chasing the same question I always was, which is why people do what they do. These days I answer it with data, automation, and software.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Almost everything I know about code I taught myself by running Linux, reading open source, and breaking things until they worked.
+
+```text
+peya@khoeun:~$ ls ~/projects
+```
+
+| project | what it does | built with |
+|:--|:--|:--|
+| **BrokerIQ** | AI assistant that lets real estate brokers ask questions of their documents and get answers with context, running on a local LLM | Express · React · Ollama · RAG · Cloudflare Tunnel |
+| **Blackjack Strategy Trainer** | Real time multiplayer blackjack that teaches basic strategy with instant feedback on every hand | Node.js · Express · Socket.io · React |
+| **SMS Chatbot** | Two way texting that connects a local LLM to Google Voice through browser automation, no official API | Python · Selenium · Ollama |
+| **Seattle Market Dashboard** | Interactive housing trends by neighborhood, built on King County property data | Python · FastAPI · React · Pandas · Plotly · Docker |
+| **Home Lab** | Full personal stack on Arch, from kernel drivers to desktop automation across three monitors | Arch · Bash · Python · NVIDIA · i3 |
+| **Minecraft Server** | Self hosted Paper server for a community of kids with Java and Bedrock crossplay | Java · Python · Paper API · Linux |
+| **Tattoo Visualizer** | Local Stable Diffusion pipeline that generates stencils and previews them on skin | Python · ComfyUI · Stable Diffusion |
+
+Full write ups live at [peyakhoeun.com/tech](https://peyakhoeun.com/tech.html).
+
+```text
+peya@khoeun:~$ ls ~/off-the-clock
+```
+
+Dialing in a V60, shooting photos around Seattle, and building co op games in Godot 4.
+
+```text
+peya@khoeun:~$ contact
+```
+
+[peyakhoeun.com](https://peyakhoeun.com) · [LinkedIn](https://www.linkedin.com/in/peyakhoeun/) · [Instagram](https://www.instagram.com/peya_khoeun/) · [PeyapongKhoeun@gmail.com](mailto:PeyapongKhoeun@gmail.com)
